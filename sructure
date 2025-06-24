@@ -1,0 +1,6 @@
+EduFund/
+├── index.html
+├── styles.css
+├── js/
+│   ├── app.js
+│   └── compound.js
