@@ -22,7 +22,6 @@ EduFund democratizes access to student financing using blockchain and DeFi.
 
 ## 🛠 Technologies Used
 
-- 🐍 Python (planning and backend simulation)
 - 💸 JavaScript (Web3, Compound integration)
 - 🌐 HTML & CSS (frontend UI)
 - 💼 MetaMask + Ethereum Wallet
